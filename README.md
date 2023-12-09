@@ -7,11 +7,11 @@ Model and Approach
 The core of this project is a Linear Regression model chosen for its optimal balance between accuracy and interpretability. Linear Regression, a fundamental algorithm in machine learning, is particularly well-suited for this type of numerical prediction task.
 
 Key Achievements
-High Accuracy: The model achieved an impressive accuracy of 87.8%, demonstrating its effectiveness in predicting house prices.
-Data Preprocessing: Extensive data preprocessing was conducted, including handling missing values, encoding categorical variables, and scaling features, to prepare the data for modeling.
-Exploratory Data Analysis (EDA): A thorough EDA was performed to understand the data, uncover patterns, and identify key features that influence house prices.
-Feature Engineering: Carefully crafted new features to enhance model performance and provide deeper insights into the factors affecting house prices.
-Model Evaluation: Rigorous evaluation methods were employed to ensure the model's robustness and accuracy.
+1)High Accuracy: The model achieved an impressive accuracy of 87.8%, demonstrating its effectiveness in predicting house prices.
+2)Data Preprocessing: Extensive data preprocessing was conducted, including handling missing values, encoding categorical variables, and scaling features, to prepare the data for modeling.
+3)Exploratory Data Analysis (EDA): A thorough EDA was performed to understand the data, uncover patterns, and identify key features that influence house prices.
+4)Feature Engineering: Carefully crafted new features to enhance model performance and provide deeper insights into the factors affecting house prices.
+5)Model Evaluation: Rigorous evaluation methods were employed to ensure the model's robustness and accuracy.
 
 Repository Contents
 Property_price_prediction.ipynb: Jupyter notebook containing the complete code, analysis, and model development process.
