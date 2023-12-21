@@ -4,7 +4,7 @@ Overview
 
 This repository contains a machine learning project focused on predicting house prices. The project uses the "House Prices - Advanced Regression Techniques" dataset, a comprehensive and real-world dataset ideal for practicing regression techniques.
 
-Model and Approach
+Model and Approach :
 
 The core of this project is a Linear Regression model chosen for its optimal balance between accuracy and interpretability. Linear Regression, a fundamental algorithm in machine learning, is particularly well-suited for this type of numerical prediction task.
 
