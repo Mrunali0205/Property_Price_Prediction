@@ -10,7 +10,7 @@ The core of this project is a Linear Regression model chosen for its optimal bal
 
 Key Achievements
 
-1)High Accuracy: The model achieved an impressive accuracy of 87.8%, demonstrating its effectiveness in predicting house prices.
+1)High Accuracy: The model achieved an impressive R Squared of 92%, demonstrating its effectiveness in predicting house prices.
 2)Data Preprocessing: Extensive data preprocessing was conducted, including handling missing values, encoding categorical variables, and scaling features, to prepare the data for modeling.
 3)Exploratory Data Analysis (EDA): A thorough EDA was performed to understand the data, uncover patterns, and identify key features that influence house prices.
 4)Feature Engineering: Carefully crafted new features to enhance model performance and provide deeper insights into the factors affecting house prices.
